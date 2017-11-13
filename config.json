@@ -1,0 +1,10 @@
+{
+  "clients": [
+    "Certhon"
+  ],
+  "tags": {
+    "traveling": "reizen",
+    "break": "pauze"
+  },
+  "maxBreakRatio": 15
+}
